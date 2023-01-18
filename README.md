@@ -4,4 +4,4 @@ This repository is strongly inspired by the Pytorch tutorial called "Training a 
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
 I first understood the code, and then wrote the code myself to train the CNN on CIFAR-10.
-I also changed several hyperparameters.
+I also changed several hyperparameters from the Pytorch tutorial.
