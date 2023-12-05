@@ -7,7 +7,10 @@ the image belongs to amongst the 10 classes above.
 ![Images from CIFAR10](https://github.com/SohrabSamimi/Training-a-CNN-on-the-CIFAR10-dataset/blob/main/cifar10.png)
 
 We also compute the global accuracy of the network: given a dataset of new images in the 10 classes, how many times does
-the network predict the right class? The answer is around 6 times out of 10 ( 66% accuracy).
+the network predict the right class? The answer is around 6 times out of 10 ( 61% accuracy).
+
+After, we compute the model accuracy for each of the 10 classes. For instance the class car has 74% accuracy.
+
 
 This repository is strongly inspired by the Pytorch tutorial called "Training a Classifier" at the following link:
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
